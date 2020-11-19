@@ -1,0 +1,19 @@
+h1 {
+    color: white;
+}
+
+a:link {
+    color: #000000;
+}
+
+a:visited {
+    color: #000000;
+}
+
+p,h2 {
+    text-align: center;
+}
+
+.projects {
+    border: solid;
+}
